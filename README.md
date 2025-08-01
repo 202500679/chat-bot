@@ -13,5 +13,5 @@ for conversation_count in range(10):
     print("chatbot:good bye!")
     break
   else:
-    print("chatbot:i don't understand the message.")
+    print("chatbot:I don't understand the message.")
   print("\n chatbot:chat ended.")
